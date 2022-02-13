@@ -1,0 +1,14 @@
+/* Be creative. Make this look nice-ish. */
+
+h1 {
+    background-color: gold;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    width: 50%;
+}
+
+form {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
