@@ -1,4 +1,4 @@
-import randomInteger from "./random.js";
+import { randomInteger } from "random.js";
 
 /*
 
